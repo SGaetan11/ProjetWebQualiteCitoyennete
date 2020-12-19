@@ -1,0 +1,53 @@
+.LogInput{
+    width: 25vw;
+    border-radius: 0.4vw;
+    padding: 1vw;
+    margin: 0.8vw 0;
+    border: 1px solid grey;
+    box-shadow: 0.1vw 0.1vw 0.3vw #888888;
+    font-size: 1.2vw;
+    background-color: #C4C4C4;
+}
+
+.login{
+    font-size: 1.2vw;
+    width: 25vw;
+    border-radius: 0.4vw;
+    padding: 1vw;
+    margin: 0.8vw 0;
+    font-size: 1.2vw;
+    color:#444444;
+    box-shadow: 0.1vw 0.1vw 0.3vw #888888;
+    background-color: #C4C4C4;
+    border: none;
+}
+
+.part1{
+    width: 50%;
+    padding-bottom: 100%;
+    background-color: #cdcdcd;
+}
+
+.part2{
+    width: 100vw;
+    padding-bottom: 100%;
+    background-color: rgb(138,192,80);
+}
+
+.centre{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.register{
+    text-decoration: none;
+    border-radius: 0.4vw;
+    padding: 1vw 8vw;
+    box-sizing: border-box;
+    font-size: 1.2vw;
+    color: black;
+    background-color: #C4C4C4;
+    color:#444444;
+    box-shadow: 0.1vw 0.1vw 0.3vw #888888;
+
+}

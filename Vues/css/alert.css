@@ -1,0 +1,28 @@
+.alert-success{
+    color:white;
+    background-color:#4caf50;
+    border-color:transparent;
+    margin-top: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    border-radius: 1vw;
+    padding:1vw;
+    padding-left: 2vw;
+    font-family:sans-serif;
+    font-size: 1.2vw
+
+}
+
+.alert-danger{
+    color:white;
+    background-color:#e51c23 ;
+    border-color: transparent;
+    margin-top: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    border-radius: 1vw;
+    padding:1vw;
+    padding-left: 2vw;
+    font-family:sans-serif;
+    font-size: 1.2vw
+}
